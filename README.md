@@ -1,4 +1,4 @@
 ### Hello there! My name is Gustavo Rodrigues 👋
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+![Gustavo GitHub stats](https://github-readme-stats.vercel.app/api?username=devGusta2&show_icons=true&theme=radical)
