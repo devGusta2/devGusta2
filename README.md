@@ -15,17 +15,19 @@
 <!--   <img align="center" alt="Php"src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"> -->
   
   <img align="center" alt="" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
+  <br>
  </div>
 
-## Linguagens secundárias
-  <div class=container style="display: inline-block"><br>
+# Linguagens secundárias:
+  <div class=container style="display: inline-block">
     <img align="center" alt="Java"src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
     <img align="center" alt="Java"src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+   <br>
   </div>
 
- ## Frameworks
+ # Frameworks:
  <div class=container style="display: inline-block">
-  <br>
+
    <img align="center" alt="" src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
    <img align="center" alt="" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
  </div>
